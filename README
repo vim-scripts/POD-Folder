@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=691
+
+I wrote this script because I've been working on a project with a lot of POD documentation, and have discovered that it's easier for me to keep track of things if I fold the document accoring to the various =head sections
+
+This script uses manual folding, because it was quicker to figure out than syntax folding.
